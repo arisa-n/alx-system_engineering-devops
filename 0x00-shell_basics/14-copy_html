@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nu *. html ..
+ln - s /bin/ls _ls_
